@@ -7,6 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
+    {% if page.fediverse_creators %}
+    {% for creator in page.fediverse_creators %}
+    <meta name="fediverse:creator" content="{{ creator | escape_once }}">
+    {% endfor %}
+    {% elsif page.fediverse_creator %}
+    <meta name="fediverse:creator" content="{{ page.fediverse_creator | escape_once }}">
+    {% endif %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">

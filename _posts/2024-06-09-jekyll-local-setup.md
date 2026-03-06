@@ -1,6 +1,7 @@
 ---
 title: Previewing a GH Pages site locally
 author: Atirut Wattanamongkol
+fediverse_creator: "@Atirut@toot.community"
 tags: jekyll github-pages ruby
 ---
 
