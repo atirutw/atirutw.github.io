@@ -1,6 +1,6 @@
 title: "The Code Den"
 description: "I *do not* know what I am doing™"
-url: "https://atirut-w.github.io"
+url: "https://atirutw.github.io"
 baseurl: ""
 livereload: true
 permalink: /posts/:year/:month/:day/:title/
