@@ -7,3 +7,10 @@ permalink: /posts/:year/:month/:day/:title/
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<article>
+    {% assign article_title = page.title | default: page.slug | replace: '-', ' ' %}
+    <h1>{{ article_title }}</h1>
+    {{ content }}
+</article>
