@@ -1,5 +1,7 @@
 title: "The Code Den"
 description: "I *do not* know what I am doing™"
+url: "https://atirut-w.github.io"
+baseurl: ""
 livereload: true
 permalink: /posts/:year/:month/:day/:title/
 
@@ -7,6 +9,7 @@ permalink: /posts/:year/:month/:day/:title/
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-sitemap
 
 defaults:
   - scope:
