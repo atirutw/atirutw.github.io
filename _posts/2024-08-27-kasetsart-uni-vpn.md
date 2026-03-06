@@ -1,6 +1,7 @@
 ---
 title: Guide for connecting to the Kasetsart University VPN on Fedora
 author: Atirut Wattanamongkol
+fediverse_creator: "@Atirut@toot.community"
 tags: kasetsart-university vpn fedora
 ---
 

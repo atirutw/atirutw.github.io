@@ -1,6 +1,7 @@
 ---
 title: I'm still alive!
 author: Atirut Wattanamongkol
+fediverse_creator: "@Atirut@toot.community"
 tags: personal update
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Rebrand Announcement
 author: Atirut Wattanamongkol
+fediverse_creator: "@Atirut@toot.community"
 tags: announcement rebranding
 ---
 
